@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "18969b15d59532c812ea0a0171559a76",
+    "content-hash": "8a138dde4b43b09680b097f16b977659",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1346,19 +1346,22 @@
         },
         {
             "name": "mojtabaahn/laravel-web-logs",
-            "version": "1.0.17",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mojtabaahn/laravel-web-logs.git",
-                "reference": "02195a7c86e4f66e5d74a13483376d6b00b10097"
+                "reference": "29c3424f464471ea461f4f3195e47c093e345e67"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mojtabaahn/laravel-web-logs/zipball/02195a7c86e4f66e5d74a13483376d6b00b10097",
-                "reference": "02195a7c86e4f66e5d74a13483376d6b00b10097",
+                "url": "https://api.github.com/repos/mojtabaahn/laravel-web-logs/zipball/29c3424f464471ea461f4f3195e47c093e345e67",
+                "reference": "29c3424f464471ea461f4f3195e47c093e345e67",
                 "shasum": ""
             },
             "require": {
+                "illuminate/http": "7.*|8.*",
+                "illuminate/routing": "7.*|8.*",
+                "illuminate/support": "7.*|8.*",
                 "php": "^8.0|^7.4"
             },
             "type": "library",
@@ -1390,9 +1393,9 @@
             "description": "Access Laravel/Lumen logs from web made easy.",
             "support": {
                 "issues": "https://github.com/mojtabaahn/laravel-web-logs/issues",
-                "source": "https://github.com/mojtabaahn/laravel-web-logs/tree/1.0.17"
+                "source": "https://github.com/mojtabaahn/laravel-web-logs/tree/1.1.0"
             },
-            "time": "2021-05-21T20:47:43+00:00"
+            "time": "2021-05-23T16:20:55+00:00"
         },
         {
             "name": "monolog/monolog",

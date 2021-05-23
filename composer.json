@@ -11,7 +11,7 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.40",
         "laravel/tinker": "^2.5",
-        "mojtabaahn/laravel-web-logs": "^1.0"
+        "mojtabaahn/laravel-web-logs": "^1.1"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
