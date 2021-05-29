@@ -1346,16 +1346,16 @@
         },
         {
             "name": "mojtabaahn/laravel-web-logs",
-            "version": "1.2.0",
+            "version": "1.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mojtabaahn/laravel-web-logs.git",
-                "reference": "245d3cdbe67bbdd7557bbf32078520fc7f065c7c"
+                "reference": "58da6a994f2b5dad77a1d3a2403dbdf6c73c05e9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mojtabaahn/laravel-web-logs/zipball/245d3cdbe67bbdd7557bbf32078520fc7f065c7c",
-                "reference": "245d3cdbe67bbdd7557bbf32078520fc7f065c7c",
+                "url": "https://api.github.com/repos/mojtabaahn/laravel-web-logs/zipball/58da6a994f2b5dad77a1d3a2403dbdf6c73c05e9",
+                "reference": "58da6a994f2b5dad77a1d3a2403dbdf6c73c05e9",
                 "shasum": ""
             },
             "require": {
@@ -1393,9 +1393,9 @@
             "description": "Access Laravel/Lumen logs from web made easy.",
             "support": {
                 "issues": "https://github.com/mojtabaahn/laravel-web-logs/issues",
-                "source": "https://github.com/mojtabaahn/laravel-web-logs/tree/1.2.0"
+                "source": "https://github.com/mojtabaahn/laravel-web-logs/tree/1.2.1"
             },
-            "time": "2021-05-29T18:30:08+00:00"
+            "time": "2021-05-29T19:02:52+00:00"
         },
         {
             "name": "monolog/monolog",
